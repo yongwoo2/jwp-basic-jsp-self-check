@@ -3,6 +3,7 @@
 <html>
 <head>
 <%@ include file="/include/header.jspf"%>
+<link rel="stylesheet" media="screen"  href="/stylesheets/qna.css">
 </head>
 <body>
 	<div id="main">
